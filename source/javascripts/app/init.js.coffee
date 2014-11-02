@@ -26,7 +26,6 @@ NotePad.Workspace = Backbone.Router.extend
     c = new NotePad.Notes
     c.fetch()
     model = c.get(id)
-    console.log model
 
 $(document).ready ()->
   router = new NotePad.Workspace
