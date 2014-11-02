@@ -1,0 +1,58 @@
+.document-footer {
+  text-align: center;
+  color: #6b6d6f;
+  text-shadow: 1px 1px 0 #e7e6e6;
+  a {
+    color: #2D9A99;
+  }
+
+  .designer {
+    margin: 66px;
+  }
+  .title {
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 600;
+    color: rgb(246, 246, 246);
+    text-shadow: 2px 2px 0 rgb(175, 175, 175);
+  }
+
+  .attribution {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+  }
+
+  .developer {
+    background: rgb(45, 154, 153);
+    padding: 20px 0;
+    text-shadow: none;
+    color: #fff;
+
+    .sub-title {
+      margin-bottom: 15px;
+    }
+  }
+
+  .driven {
+width: 607px;
+overflow: hidden;
+margin: 60px auto;
+
+.left {
+float: left;
+width: 140px;
+border-right: 1px solid rgb(180, 180, 180);
+line-height: 118px;
+}
+
+.right {
+float: left;
+text-align: left;
+border-left: 1px solid rgb(231, 230, 230);
+padding: 10px 17px;
+
+}
+}
+
+
+}

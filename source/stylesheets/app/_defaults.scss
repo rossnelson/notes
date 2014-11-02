@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: #d4d4d4 url("../images/background.png");
+  font-family: 'Open Sans', sans-serif; 
+  color: #333941;
+}
+
+.main {
+  height: 575px;
+  box-shadow: 0 0 5px #c3c3c3;
+  @include grid();
+  margin-bottom: 20px;
+  margin-top: 60px;
+}
+
+.footer {
+  height: 102px;
+  .footer-content {
+    float: left;
+    border-left: 1px solid rgb(213, 114, 114);
+    height: 100%;
+    padding: 73px 16px 10px;
+    font-size: 13px;
+    color: rgb(158, 163, 169);
+    text-align: right;
+    width: 660px;
+  }
+
+  .left-decorative {
+    width: 55px;
+    border-right: 1px solid rgb(213, 114, 114);
+    margin-right: 4px;
+    height: 100%;
+    float: left;
+  }
+
+  .progress{
+    display: inline;
+    &:before {
+      font-size: 18px;
+    }
+    &.rotating {
+      &:before {
+        -webkit-animation: rotating 1s linear infinite;
+        color: rgb(35, 205, 31);
+      }
+    }
+  }
+  .date {
+    display: inline;
+  }
+
+}
+
+@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.rotating {
+  &:before {
+    -webkit-animation: rotating 1s linear infinite;
+  }
+}
+
+.unselectable {
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+
+   /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+   -ms-user-select: none;
+   user-select: none;
+}
