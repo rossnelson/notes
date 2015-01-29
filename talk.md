@@ -1,7 +1,7 @@
 
 **Ross** 
 
-Before start our family study, is there anything you
+Before we start our family study, is there anything you
 would like to cover?
 
 **Dade** 
@@ -16,7 +16,7 @@ Are you sure? You've seemed awfully serious lately.
 
 Well, I, have been thinking a lot about this kid at school. he is just 
 so depressed all the time. Im not sure why, but I was thinking if he knew
-jehovah and the truth it would really help him.
+Jehovah and the truth it would really help him.
 
 Do you think you could help me come up with something I can talk to him about?
 
@@ -83,7 +83,7 @@ Well it makes him more real to us and draws us closer to him.
 Right, and when it comes to studying Jehovah's word, meditating enables us to 
 assimilate what we read and to develop appreciation for it.
 
-Remember what _Joshua 1:8_ says,
+Remember what _Joshua 1:8_ says about prayer,
 
 > and you must read it in an undertone* day and night, in order to observe 
 > carefully all that is written in it;
@@ -111,8 +111,8 @@ Jehovah about my problems always makes me feel better.
 
 **Ross**
 
-That would be great. Lets read one last scripture, _Hebrews 10:24, 25_ this
-helps us to appreciate the education and support our meetings provide.
+That would be great. Lets read one last scripture, _Hebrews 10:24, 25_ just the first part of 25. 
+This helps us to appreciate the education and support our meetings provide.
 
 > “Let us consider one another so as to incite to love and fine works, not 
 > forsaking our meeting together.”
