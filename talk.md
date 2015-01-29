@@ -46,19 +46,19 @@ you appreciate about Jehovah's creations?
 
 **Dade**
 
-I like the fact that Jehovah is so creative. There are millions of
+I like the fact that Jehovah is so creativity is so endless. There are millions of
 identified species of living things on the earth and I just read that there might
 be 10 to 30 million more species scientists have not discovered yet.
 
 **Ross**
 
 Yeah, and I often think of Jehovah's power in
-controlling all the heavenly bodies. Think about all the debris flying through 
-space and yet, rarely it enter the earths atmosphere. When it does, so often it
+controlling all the heavenly bodies. Think about all the objects flying through 
+space and yet, rarely they enter the earths atmosphere. When they does, so often they
 just burns up to create beautiful shooting stars across the sky.
 
 Both are very powerful topics to share with your friend. Why don't you explain 
-And how they reflect Jehovah's qualities and how you meditate on these things. 
+how they reflect Jehovah's qualities and how you meditate on these things. 
 
 **Dade**
 
@@ -112,7 +112,6 @@ Jehovah about my problems always makes me feel better.
 **Ross**
 
 That would be great. Lets read one last scripture, _Hebrews 10:24, 25_ just the first part of 25. 
-This helps us to appreciate the education and support our meetings provide.
 
 > “Let us consider one another so as to incite to love and fine works, not 
 > forsaking our meeting together.”
