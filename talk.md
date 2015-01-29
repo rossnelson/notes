@@ -47,7 +47,7 @@ you appreciate about Jehovah's creations?
 **Dade**
 
 I like the fact that Jehovah's creativity is so endless. There are millions of
-identified species of living things on the earth and I just read that there might
+identified species, of living things on the earth and I just read that there might
 be 10 to 30 million more species scientists have not discovered yet.
 
 **Ross**
